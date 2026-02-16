@@ -1,2 +1,2 @@
 # singlePage
-MY INFO
+MY INFOrmation
